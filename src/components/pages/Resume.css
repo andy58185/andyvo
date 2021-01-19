@@ -1,0 +1,11 @@
+.overall{
+    background-color: black ;
+    min-height: 100vh;
+    background-size: 100%;
+
+}
+
+.resume1{
+    left:900px;
+    position: sticky;
+}
